@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BiometricAuthentication</string>
+    <string name="click_button_to_start_authentication">Click button to start authentication</string>
+</resources>
